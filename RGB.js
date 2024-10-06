@@ -1,11 +1,11 @@
 // Selecciona los elementos del DOM.
-const inputRed=document.getElementById('rojo');
-const inputGreen=document.getElementById('verde');
-const inputBlue=document.getElementById('azul');
+const inputRed=document.getElementById('red');
+const inputGreen=document.getElementById('green');
+const inputBlue=document.getElementById('blue');
 
-const textoRed=document.getElementById('texto-rojo');
-const textoGreen=document.getElementById('texto-verde');
-const textoBlue=document.getElementById('texto-azul');
+const textoRed=document.getElementById('texto-red');
+const textoGreen=document.getElementById('texto-green');
+const textoBlue=document.getElementById('texto-blue');
 
 // Valores iniciales para definir el color RGB.
 let red=inputRed.value;
